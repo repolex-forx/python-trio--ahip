@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-trio",
+  "repo": "ahip",
+  "versions": [
+    {
+      "commit": "a0085fd9a76fa652ec90b81129907fd6156dcd2a",
+      "parsed_at": "2026-10-11T19:17:41.366293+00:00",
+      "filetree": "filetree/a0085fd9a76fa652ec90b81129907fd6156dcd2a.nq.gz",
+      "blobs": [
+        "blob/bb3ec5f0d4c70ef732aa4d399282a5ddb2a008fd.nq.gz",
+        "blob/b185fc15b3ef363d8457b93e284b6761a63aa841.nq.gz",
+        "blob/a2f71c25642baa340d7075abf07495a58e71f56f.nq.gz",
+        "blob/c9cc9cbd5250b6275a11e88e6591c118f2558c7b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
