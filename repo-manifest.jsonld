@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/ahip/commit/a0085fd9a76fa652ec90b81129907fd6156dcd2a",
       "git:hexsha": "a0085fd9a76fa652ec90b81129907fd6156dcd2a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
